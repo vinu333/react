@@ -1,0 +1,23 @@
+.Link{
+
+  color:white;
+  text-decoration:none;
+}
+
+.Link:hover{
+  text-decoration:none;
+}
+
+.form_submit{
+  display:none;
+}
+
+.span_container{
+  padding:50px;
+}
+
+
+
+.table_width{
+  width:100%;
+}
